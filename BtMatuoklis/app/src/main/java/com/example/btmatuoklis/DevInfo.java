@@ -33,3 +33,5 @@ public class DevInfo {
         return "Pavadinimas: "+Name+"\n"+"MAC: "+Mac+"\n"+"RSSI: "+Rssi;
     }
 }
+
+// komentuoju
